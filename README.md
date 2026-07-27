@@ -165,7 +165,8 @@ Desenvolvido por **Jhuan Silva** com auxílio de **Beatriz Alves**
   <a href="https://github.com/tsuki0-0">
     <img src="https://img.shields.io/badge/GitHub-tsuki0--0-black?style=for-the-badge&logo=github">
   </a>
-
+</p>
+<p align="center">
   <a href="https://github.com/bea3853">
     <img src="https://img.shields.io/badge/GitHub-bea3853-black?style=for-the-badge&logo=github">
   </a>
