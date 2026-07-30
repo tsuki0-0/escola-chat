@@ -14,7 +14,7 @@ Assistente virtual inteligente para atendimento escolar utilizando IA
 </h2>
 
 <p align="center">
-  <a href="https://profound-maamoul-1e9673.netlify.app/" target="_blank">
+  <a href="chat-bot-eschool.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Acessar%20Site%20do%20Projeto-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Acessar Site do Projeto">
   </a>
 </p>
@@ -132,7 +132,7 @@ Após configurar, realize o deploy da aplicação.
 Acesse a versão online:
 
 <p align="center">
-  <a href="https://profound-maamoul-1e9673.netlify.app/" target="_blank">
+  <a href="chat-bot-eschool.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Acessar%20Site%20do%20Projeto-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Acessar Site do Projeto">
   </a>
 </p>
